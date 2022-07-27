@@ -6,4 +6,5 @@
 2. Merge the job3 branch with the job2 branch.
 
 Created the job3 branch while in the job2 branch.
+
 Merge the job2 branch into the job3 branch.
